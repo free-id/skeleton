@@ -1,5 +1,5 @@
 {
-    "name": "free-id/json",
+    "name": ":vendor_slug/:package_slug",
     "description": ":package_description for free-id/core package",
     "keywords": [
         "free id",
