@@ -4,7 +4,7 @@
     "keywords": [
         "free id",
         ":author_username",
-        ":author_name",
+        ":vendor_slug",
         ":package_slug",
         "parser"
     ],
